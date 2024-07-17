@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi folks 👋
+
+I'm Andrea, an unregular nerd, open source enthusiast, he/she whatever. :rainbow_flag: :smiley:
 
 <!--
 **bitstorm/bitstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
