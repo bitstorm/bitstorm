@@ -1,6 +1,6 @@
 ## Hi folks 👋
 
-I'm Andrea, an unregular nerd, open source enthusiast, he/she whatever. :rainbow_flag: I'm mainly involved with the wonderful [Apache Wicket](https://wicket.apache.org) project, and I'm always busy teaching Java devs "how to stop worrying and start loving web apps" :smiley:
+I'm Andrea, an unregular nerd, open source enthusiast, he/she...whatever :rainbow_flag: I'm mainly involved with the wonderful [Apache Wicket](https://wicket.apache.org) project, and I'm always busy teaching Java devs "how to stop worrying and start loving web apps" :smiley:
 
 <img src="strangelove01.jpg" width=550 >
 
